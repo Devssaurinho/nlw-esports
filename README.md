@@ -71,7 +71,7 @@ The project is an app that allows users to post an ad to find other players in t
 
 To download the source code of the project to your machine, you will first need to have [**GIT**](https://git-scm.com/) installed.
 
-With Git installed, in your terminal run the following command:
+With GIT installed, in your terminal run the following command:
 
 ```bash
 git clone https://github.com/Devssaurinho/nlw-esports.git
@@ -79,7 +79,7 @@ git clone https://github.com/Devssaurinho/nlw-esports.git
 
 To install the dependencies and run the project you will need to have [**Node.js**](https://nodejs.org/en/) installed on your machine, which comes with NPM. 
 
-Navigate to separate subfolders for each project (web/server/mobile) and run the following command:
+Navigate to separate subfolders for each project (web/mobile/server) and run the following command:
 
 ```bash
 npm install
